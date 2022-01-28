@@ -24,11 +24,11 @@ p {
 img {
     width: 350px;
     border: dashed 10px #ffffff;
-    /* display: block; */
+    display: block;
 }
 
 div {
-    height: 100px;
+    min-height: 100px;
     padding: 20px;
     border: solid 3px #ffffff;
 }
